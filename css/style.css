@@ -926,8 +926,8 @@ ul#nav li a:hover {
 	 -o-transition: opacity 0.3s ease-in-out;
 	 transition: opacity 0.3s ease-in-out;
 
-   background: #ed5565;
-   background: rgba(237,85,101, .9);
+/*   background: #ed5565;*/
+   background: #0B0B61;
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;
